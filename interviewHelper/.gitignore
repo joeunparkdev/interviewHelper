@@ -1,0 +1,41 @@
+# Mac
+.DS_Store
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+*.egg-info/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual Environments
+env/
+venv/
+stenv/
+
+# Python-specific stuff
+.env
+.venv
+env.bak/
+venv.bak/
+
+# Streamlit secrets
+.streamlit/secrets.toml
